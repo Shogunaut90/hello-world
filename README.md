@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hello, I am AJ, I am an aspiring Web Developer currently focusing on Vanilla Javascript. Right now though, I am learning to use Github.
 From what I understand it's a pretty powerful sytem to edit and control versions of your project. 
